@@ -1,0 +1,1 @@
+g++ -I /usr/local/systemc-2.2/include -L /usr/local/systemc-2.2/lib-cygwin main.cpp -lsystemc -o run.x
